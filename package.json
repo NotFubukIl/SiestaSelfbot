@@ -1,0 +1,13 @@
+{
+  "name": "siestaselbot",
+  "version": "1.0.0",
+  "description": "Open Sourced Selfbot By Not.Fubukii",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "!\"𝐍𝐨𝐭.𝐅𝐮𝐛𝐮𝐤𝐢𝐢 †#0069",
+  "license": "ISC"
+}
